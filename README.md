@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-MoneyHash is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://moneyhash.io/
+MoneyHash is a payment orchestration platform targeting emerging and global markets. It offers an all‑in‑one flexible solution for payment processing, revenue operations, and scaling payment infrastructure across growth stages. The service helps businesses build, optimize, and expand their payment capabilities, providing tools for handling transactions, compliance, and financial operations in a unified platform.
+
+**Areas:** Company · Payments · Fintech · Orchestration · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://moneyhash.io/)
+- [Documentation](https://docs.moneyhash.io/)
+- [Getting started](https://moneyhash.io/get-started)
+- [API reference](https://docs.moneyhash.io/reference)
+- [Blog](https://moneyhash.io/blog)
+- [GitHub](https://github.com/MoneyHash)
+
+**APIs profiled:** 13
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/moneyhash/](https://apis.io/providers/moneyhash/).
